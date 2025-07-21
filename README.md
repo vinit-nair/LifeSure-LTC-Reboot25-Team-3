@@ -1,6 +1,6 @@
-# Reboot Manchester Hackathon
+# Reboot Hyderabad Hackathon
 
-This is the repository for the Reboot Hackathon being held in Manchester.
+This is the repository for the Reboot Hackathon being held in Hyderabad.
 
 ## Fork this Repository
 
