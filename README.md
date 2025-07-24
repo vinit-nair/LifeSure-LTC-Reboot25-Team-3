@@ -127,8 +127,6 @@ The application uses default configurations for development. For production, cre
 ```bash
 # From project root
 ./start-app.bat  # Windows
-# OR
-chmod +x start-app.sh && ./start-app.sh  # Linux/macOS
 ```
 
 ### Option 2: Manual Startup
